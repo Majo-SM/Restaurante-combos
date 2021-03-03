@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="INTERFACE-CONSTRUCTOR permitira &#xD;&#xA;declarar los pasos de construcción del producto">
+    <Position X="1.49" Y="1.222" Height="0.879" Width="1.968" />
+  </Comment>
+  <Comment CommentText="Producto...&#xD;&#xA; construidos por diferentes constructores no tienen que pertenecer a la misma jerarquía de clase o interfaz.">
+    <Position X="5.931" Y="1.596" Height="1.236" Width="1.7" />
+  </Comment>
+  <Comment CommentText="CLIENTE&#xD;&#xA;asocia uno de los objetos constructores con el director">
+    <Position X="13.581" Y="1.307" Height="1.147" Width="1.65" />
+  </Comment>
+  <Comment CommentText="Esta clase se la considera la clase DIRECTORA donde define el orden en el que se va a llamar a los pasos de construcción">
+    <Position X="9.676" Y="2.927" Height="1.038" Width="1.859" />
+  </Comment>
+  <Comment CommentText="Constructores estos representan los distintos combos u objetos que deseamos crear">
+    <Position X="9.259" Y="4.576" Height="0.939" Width="1.849" />
+  </Comment>
+  <Class Name="PatrónB.Class1">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.ComboFamiliar">
+    <Position X="5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAABAAAAAEAAAAAAAAAAAAAAIIAAAAAA=</HashCode>
+      <FileName>ComboFamiliar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.ComboInfantil">
+    <Position X="7.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAABAAAAAEAAAAAAAAAAAAAAIIAAAAAA=</HashCode>
+      <FileName>ComboInfantil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.Comboparaamig">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAABAAAAAEAAAAAAAAAAAAAAIIAAAAAA=</HashCode>
+      <FileName>Comboparaamig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.Creador">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAiAAAAAAEAAAACQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.CreadorCombo">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAIAAAAAAABAAAAAEAAAAAAAAAAAAAAIIAAAEAA=</HashCode>
+      <FileName>CreadorCombo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.Restaurant">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCFAAAAAAAAAIACAAAAAAEAAAAAAACAABAEAAAA=</HashCode>
+      <FileName>Restaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatrónB.Solitario">
+    <Position X="2.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAABAAAAAEAAAAAAAAAAAAAAIIAAAAAA=</HashCode>
+      <FileName>Solitario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

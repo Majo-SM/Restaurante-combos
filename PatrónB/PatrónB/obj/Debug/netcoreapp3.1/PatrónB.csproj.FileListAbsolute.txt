@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.exe
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.deps.json
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.runtimeconfig.json
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.dll
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\bin\Debug\netcoreapp3.1\PatrónB.pdb
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.dll
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.pdb
+C:\Users\Usuario\source\repos\PatrónB\PatrónB\obj\Debug\netcoreapp3.1\PatrónB.genruntimeconfig.cache
